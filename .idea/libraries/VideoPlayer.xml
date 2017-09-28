@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VideoPlayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/VideoPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
