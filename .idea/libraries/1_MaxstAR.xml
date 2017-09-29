@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="VideoPlayer">
+  <library name="1_MaxstAR">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/VideoPlayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/MaxstAR.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
